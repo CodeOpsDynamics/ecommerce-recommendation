@@ -1,0 +1,201 @@
+product_id,product_name,category,price,brand
+P0001,Nike T-Shirt,Fashion,12622.15,Nike
+P0002,Apple Vacuum Cleaner,Home & Kitchen,33996.62,Apple
+P0003,Puma Jacket,Fashion,2073.24,Puma
+P0004,LG Jeans,Fashion,25515.09,LG
+P0005,LG Tablet,Electronics,35942.97,LG
+P0006,HP Board Game,Toys,29668.65,HP
+P0007,Sony Gaming Console,Electronics,35057.9,Sony
+P0008,Sony Lipstick,Beauty,11158.03,Sony
+P0009,Apple Face Cream,Beauty,19306.4,Apple
+P0010,Generic Lipstick,Beauty,13593.78,Generic
+P0011,HP Camera,Electronics,27043.29,HP
+P0012,Dell Action Figure,Toys,15012.32,Dell
+P0013,LG Skincare Kit,Beauty,35376.31,LG
+P0014,LG Camera,Electronics,38766.88,LG
+P0015,LG Sunglasses,Fashion,43390.94,LG
+P0016,HP Puzzle,Toys,31966.38,HP
+P0017,Adidas Shampoo,Beauty,18085.9,Adidas
+P0018,Apple Badminton Racket,Sports,30651.98,Apple
+P0019,LG Dinner Set,Home & Kitchen,8588.42,LG
+P0020,Dell Puzzle,Toys,11370.95,Dell
+P0021,LG Face Cream,Beauty,41179.23,LG
+P0022,Nike Perfume,Beauty,3776.34,Nike
+P0023,HP Shampoo,Beauty,20083.78,HP
+P0024,Nike Cooking Oil,Grocery,7411.7,Nike
+P0025,Generic Badminton Racket,Sports,21707.47,Generic
+P0026,LG Puzzle,Toys,49867.63,LG
+P0027,HP Dinner Set,Home & Kitchen,5000.02,HP
+P0028,Apple Gaming Console,Electronics,8065.65,Apple
+P0029,Puma Vacuum Cleaner,Home & Kitchen,30022.25,Puma
+P0030,Generic Remote Car,Toys,49808.01,Generic
+P0031,Samsung Football,Sports,34174.03,Samsung
+P0032,Dell Handbag,Fashion,37668.45,Dell
+P0033,Nike Face Cream,Beauty,22020.88,Nike
+P0034,Nike Rice,Grocery,48608.46,Nike
+P0035,Apple Dinner Set,Home & Kitchen,43590.67,Apple
+P0036,Dell Badminton Racket,Sports,30644.03,Dell
+P0037,Sony Bed Sheet,Home & Kitchen,27199.26,Sony
+P0038,Adidas Tablet,Electronics,24685.98,Adidas
+P0039,Nike Dress,Fashion,12352.89,Nike
+P0040,Apple Business Book,Books,4739.85,Apple
+P0041,Dell Rice,Grocery,38408.8,Dell
+P0042,HP Vacuum Cleaner,Home & Kitchen,47369.01,HP
+P0043,Dell Bed Sheet,Home & Kitchen,43685.44,Dell
+P0044,Dell Board Game,Toys,37885.63,Dell
+P0045,Nike Fiction,Books,20250.12,Nike
+P0046,Dell Perfume,Beauty,22848.56,Dell
+P0047,Apple Self-Help Book,Books,17235.24,Apple
+P0048,LG Business Book,Books,855.95,LG
+P0049,Apple Laptop,Electronics,45318.29,Apple
+P0050,Dell Face Cream,Beauty,12281.23,Dell
+P0051,Dell Cooking Oil,Grocery,7049.44,Dell
+P0052,HP Cooking Oil,Grocery,40471.1,HP
+P0053,Apple Novel,Books,33119.65,Apple
+P0054,Puma Perfume,Beauty,23617.72,Puma
+P0055,Apple Camera,Electronics,3500.33,Apple
+P0056,LG Face Cream,Beauty,9983.71,LG
+P0057,Puma Cooking Oil,Grocery,9582.66,Puma
+P0058,Apple Cooking Oil,Grocery,22434.97,Apple
+P0059,Dell T-Shirt,Fashion,41883.37,Dell
+P0060,LG Sunglasses,Fashion,8732.4,LG
+P0061,LG Coffee,Grocery,43300.19,LG
+P0062,Puma Laptop,Electronics,606.69,Puma
+P0063,HP Puzzle,Toys,14619.84,HP
+P0064,LG Cooking Oil,Grocery,15187.04,LG
+P0065,Dell Tablet,Electronics,3517.4,Dell
+P0066,Samsung Face Cream,Beauty,29416.79,Samsung
+P0067,Dell Mixer Grinder,Home & Kitchen,4465.52,Dell
+P0068,Generic Mixer Grinder,Home & Kitchen,3864.06,Generic
+P0069,Apple Biography,Books,47109.01,Apple
+P0070,Generic Business Book,Books,2467.21,Generic
+P0071,Generic Shoes,Fashion,28478.73,Generic
+P0072,LG Lipstick,Beauty,33651.44,LG
+P0073,Nike Shampoo,Beauty,20091.4,Nike
+P0074,Adidas Cricket Bat,Sports,46486.41,Adidas
+P0075,HP T-Shirt,Fashion,31247.38,HP
+P0076,Dell T-Shirt,Fashion,11051.14,Dell
+P0077,Adidas Yoga Mat,Sports,44102.78,Adidas
+P0078,Nike Cookbook,Books,8308.47,Nike
+P0079,Dell Football,Sports,887.24,Dell
+P0080,Apple Badminton Racket,Sports,46977.04,Apple
+P0081,Apple Bed Sheet,Home & Kitchen,44540.78,Apple
+P0082,Nike Bed Sheet,Home & Kitchen,30439.08,Nike
+P0083,Nike Shampoo,Beauty,25517.75,Nike
+P0084,Apple Running Shoes,Sports,31897.08,Apple
+P0085,Samsung Running Shoes,Sports,17011.05,Samsung
+P0086,Nike Vacuum Cleaner,Home & Kitchen,8498.31,Nike
+P0087,Puma Snacks,Grocery,28264.89,Puma
+P0088,Sony T-Shirt,Fashion,27506.72,Sony
+P0089,Dell Skincare Kit,Beauty,7830.64,Dell
+P0090,Nike Mixer Grinder,Home & Kitchen,18550.25,Nike
+P0091,LG Headphones,Electronics,34262.3,LG
+P0092,Dell Dress,Fashion,44264.67,Dell
+P0093,Sony Doll,Toys,46325.31,Sony
+P0094,Sony Self-Help Book,Books,44130.1,Sony
+P0095,Adidas Laptop,Electronics,39228.13,Adidas
+P0096,LG Building Blocks,Toys,13706.88,LG
+P0097,Samsung Shoes,Fashion,43000.37,Samsung
+P0098,HP Self-Help Book,Books,17808.09,HP
+P0099,Samsung Self-Help Book,Books,33171.64,Samsung
+P0100,Nike Puzzle,Toys,43285.47,Nike
+P0101,Dell Dumbbell Set,Sports,20284.08,Dell
+P0102,Apple Face Cream,Beauty,43913.4,Apple
+P0103,Generic Yoga Mat,Sports,48145.45,Generic
+P0104,Apple Running Shoes,Sports,30030.28,Apple
+P0105,Adidas Hair Oil,Beauty,22101.5,Adidas
+P0106,Generic Shoes,Fashion,9908.9,Generic
+P0107,Puma Camera,Electronics,583.72,Puma
+P0108,Puma Cookbook,Books,3963.7,Puma
+P0109,Adidas Skincare Kit,Beauty,33337.68,Adidas
+P0110,Nike Handbag,Fashion,25602.56,Nike
+P0111,Puma Puzzle,Toys,35011.82,Puma
+P0112,Puma Pressure Cooker,Home & Kitchen,33414.01,Puma
+P0113,Sony Building Blocks,Toys,30967.99,Sony
+P0114,Dell Cricket Bat,Sports,41769.4,Dell
+P0115,LG Dumbbell Set,Sports,21779.46,LG
+P0116,HP Perfume,Beauty,22386.91,HP
+P0117,HP Business Book,Books,39789.9,HP
+P0118,Apple Vacuum Cleaner,Home & Kitchen,14547.43,Apple
+P0119,LG Face Cream,Beauty,33803.39,LG
+P0120,Sony Self-Help Book,Books,1709.06,Sony
+P0121,Generic Biography,Books,42562.02,Generic
+P0122,Puma Shoes,Fashion,44363.78,Puma
+P0123,Puma Fiction,Books,24971.67,Puma
+P0124,Samsung Self-Help Book,Books,44686.66,Samsung
+P0125,Puma Sunglasses,Fashion,11332.64,Puma
+P0126,Dell Rice,Grocery,12835.31,Dell
+P0127,Sony Shoes,Fashion,40170.12,Sony
+P0128,Generic Perfume,Beauty,40842.82,Generic
+P0129,HP Doll,Toys,44911.8,HP
+P0130,Nike Coffee,Grocery,37712.95,Nike
+P0131,HP Football,Sports,31524.05,HP
+P0132,Apple Cricket Bat,Sports,35820.47,Apple
+P0133,Adidas Cookbook,Books,16325.62,Adidas
+P0134,Sony Jeans,Fashion,11947.44,Sony
+P0135,LG Vacuum Cleaner,Home & Kitchen,3679.33,LG
+P0136,Dell Puzzle,Toys,23563.25,Dell
+P0137,Puma Laptop,Electronics,19779.1,Puma
+P0138,Generic Gaming Console,Electronics,19328.86,Generic
+P0139,Nike Headphones,Electronics,37797.02,Nike
+P0140,Dell Doll,Toys,40093.47,Dell
+P0141,LG Biography,Books,14010.3,LG
+P0142,Puma Rice,Grocery,17138.41,Puma
+P0143,Sony Building Blocks,Toys,42105.03,Sony
+P0144,Dell Dinner Set,Home & Kitchen,1834.84,Dell
+P0145,Generic Doll,Toys,33318.49,Generic
+P0146,Puma Handbag,Fashion,7217.12,Puma
+P0147,Samsung Cooking Oil,Grocery,13377.74,Samsung
+P0148,HP Shampoo,Beauty,16678.87,HP
+P0149,Puma Puzzle,Toys,12987.44,Puma
+P0150,Samsung Shoes,Fashion,37576.7,Samsung
+P0151,LG Headphones,Electronics,32682.13,LG
+P0152,Samsung Gaming Console,Electronics,47505.78,Samsung
+P0153,Generic Novel,Books,8042.93,Generic
+P0154,Apple Curtains,Home & Kitchen,28416.49,Apple
+P0155,Nike Biography,Books,38461.46,Nike
+P0156,Generic Dinner Set,Home & Kitchen,48204.87,Generic
+P0157,Sony Sunglasses,Fashion,48253.68,Sony
+P0158,Samsung Jacket,Fashion,46479.91,Samsung
+P0159,LG Remote Car,Toys,4261.83,LG
+P0160,Nike Novel,Books,42589.52,Nike
+P0161,Generic Sunglasses,Fashion,39240.45,Generic
+P0162,Puma Skincare Kit,Beauty,33245.31,Puma
+P0163,Adidas Jacket,Fashion,1126.28,Adidas
+P0164,Apple Remote Car,Toys,21959.41,Apple
+P0165,HP Hair Oil,Beauty,35511.78,HP
+P0166,Dell Board Game,Toys,48290.95,Dell
+P0167,Dell Football,Sports,38844.75,Dell
+P0168,Generic Coffee,Grocery,13785.58,Generic
+P0169,Nike Novel,Books,44140.74,Nike
+P0170,Generic Biography,Books,30711.42,Generic
+P0171,Samsung Puzzle,Toys,24968.17,Samsung
+P0172,HP Shampoo,Beauty,10999.93,HP
+P0173,Nike Dumbbell Set,Sports,44075.84,Nike
+P0174,Samsung Football,Sports,26073.05,Samsung
+P0175,LG Novel,Books,36143.7,LG
+P0176,LG Snacks,Grocery,34685.16,LG
+P0177,Samsung Coffee,Grocery,5106.14,Samsung
+P0178,LG Biography,Books,15657.2,LG
+P0179,Dell Perfume,Beauty,26780.64,Dell
+P0180,Dell Building Blocks,Toys,16874.17,Dell
+P0181,Nike Tea,Grocery,12944.48,Nike
+P0182,LG Handbag,Fashion,16119.62,LG
+P0183,LG Pressure Cooker,Home & Kitchen,37060.93,LG
+P0184,Generic Badminton Racket,Sports,48842.05,Generic
+P0185,LG Running Shoes,Sports,15164.2,LG
+P0186,Nike Shampoo,Beauty,1200.34,Nike
+P0187,Samsung Bed Sheet,Home & Kitchen,48727.6,Samsung
+P0188,Sony Badminton Racket,Sports,32074.55,Sony
+P0189,Samsung Rice,Grocery,28916.18,Samsung
+P0190,HP Coffee,Grocery,17364.94,HP
+P0191,HP Headphones,Electronics,6147.31,HP
+P0192,HP Shoes,Fashion,4167.07,HP
+P0193,Sony Laptop,Electronics,40651.53,Sony
+P0194,LG Running Shoes,Sports,6363.35,LG
+P0195,Generic Doll,Toys,39641.67,Generic
+P0196,Puma Business Book,Books,22800.47,Puma
+P0197,Generic Tea,Grocery,49506.55,Generic
+P0198,Generic Football,Sports,3481.4,Generic
+P0199,LG Sunglasses,Fashion,31462.99,LG
+P0200,Apple Badminton Racket,Sports,8274.33,Apple
