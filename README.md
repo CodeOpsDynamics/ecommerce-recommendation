@@ -1,6 +1,6 @@
 # 🛍️ AI-Powered E-Commerce Product Recommendation System
 
-**Course:** Information Systems - Working with AI Project  
+**Course:** Information Systems  
 **Student:** Himanshu (XW013-25)  
 **Institution:** IIM Ranchi - Executive MBA (2025-27)  
 **Professor:** Prof. Anupriya Khan  
@@ -160,9 +160,9 @@ similarity(A, B) = (A · B) / (||A|| × ||B||)
 ### **WAI Compliance:**
 
 **AI Tools Used:**
-- Claude AI (code generation, documentation)
+- Claude AI (code suggestions)
 - ChatGPT (report structure)
-- GitHub Copilot (code completion)
+- GitHub Copilot (code compilation)
 
 **Independent Work:**
 - Algorithm selection and tuning
