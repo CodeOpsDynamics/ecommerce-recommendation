@@ -1,11 +1,11 @@
 # 🛍️ AI-Powered E-Commerce Product Recommendation System
 
-**Course:** Information Systems
-**Topic:** AI-POWERED E-COMMERCE PRODUCT RECOMMENDATION SYSTEM
-**Student:** Himanshu (XW013-25)
-**Institution:** IIM Ranchi - Executive MBA (2025-27)
-**Professor:** Prof. Anupriya Khan
-Submission Date: February 17, 2026
+**Course:** Information Systems - Working with AI Project  
+**Student:** Himanshu (XW013-25)  
+**Institution:** IIM Ranchi - Executive MBA (2025-27)  
+**Professor:** Prof. Anupriya Khan  
+**Submission Date:** February 17, 2026
+
 ---
 
 ## 🌐 Live Demo
@@ -160,9 +160,9 @@ similarity(A, B) = (A · B) / (||A|| × ||B||)
 ### **WAI Compliance:**
 
 **AI Tools Used:**
-- Claude AI (code fix)
+- Claude AI (code generation, documentation)
 - ChatGPT (report structure)
-- GitHub Copilot (code compilation)
+- GitHub Copilot (code completion)
 
 **Independent Work:**
 - Algorithm selection and tuning
