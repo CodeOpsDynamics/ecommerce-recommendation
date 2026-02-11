@@ -1,6 +1,6 @@
 # 🛍️ AI-Powered E-Commerce Product Recommendation System
 
-**Course:** Information Systems
+**Course:** Information Systems                                                                                                                                                    
 **Topic:** AI-POWERED E-COMMERCE PRODUCT RECOMMENDATION SYSTEM
 **Student:** Himanshu (XW013-25)  
 **Institution:** IIM Ranchi - Executive MBA (2025-27)  
