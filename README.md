@@ -160,9 +160,9 @@ similarity(A, B) = (A · B) / (||A|| × ||B||)
 ### **WAI Compliance:**
 
 **AI Tools Used:**
-- Claude AI (code generation, documentation)
+- Claude AI (code fix)
 - ChatGPT (report structure)
-- GitHub Copilot (code completion)
+- GitHub Copilot (code compilation)
 
 **Independent Work:**
 - Algorithm selection and tuning
