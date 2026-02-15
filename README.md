@@ -1,7 +1,7 @@
 # 🛍️ AI-Powered E-Commerce Product Recommendation System
 
 **Course:** Information Systems  
-**Student:** Himanshu (XW013-25)  
+**Student:** Himanshu Rai (XW013-25)  
 **Institution:** IIM Ranchi - Executive MBA (2025-27)  
 **Professor:** Prof. Anupriya Khan  
 **Submission Date:** February 17, 2026
@@ -194,7 +194,7 @@ similarity(A, B) = (A · B) / (||A|| × ||B||)
 
 ## 📞 Contact
 
-**Himanshu**  
+**Himanshu Rai**  
 Student ID: XW013-25  
 IIM Ranchi - Executive MBA (2025-27)
 
