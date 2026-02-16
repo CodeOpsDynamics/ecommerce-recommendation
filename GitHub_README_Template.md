@@ -47,46 +47,46 @@ streamlit run app.py
 
 ### Application Interface
 
-#### Figure 1: Home Page
+#### Figure 1: Home Page  
 ![Home Page](screenshots/home_page.png)
 
 System overview showing 1,000 users, 200 products, 10,000 ratings, and 3.99 average rating
 
-#### Figure 2: Recommendation Page
+#### Figure 2: Recommendation Page  
 ![Recommendations](screenshots/recommendations_page.png)
 
 User selection dropdown, recommendation slider, purchase history, and personalized suggestions with predicted ratings
 
-#### Figure 3: Analytics Dashboard
+#### Figure 3: Analytics Dashboard  
 ![Analytics](screenshots/analytics_page.png)
 
 Rating distribution charts, category breakdown, top-rated products, and usage patterns
 
-#### Figure 4: How It Works
+#### Figure 4: How It Works  
 ![Algorithm Explanation](screenshots/how_it_works_page.png)
 
 Collaborative filtering explanation, cosine similarity formula, and model performance metrics
 
 ### System Architecture
 
-#### Figure 5: Architecture Diagram
+#### Figure 5: Architecture Diagram  
 ![Architecture](screenshots/architecture_diagram.png)
 
 Data Layer --> Algorithm Layer --> Application Layer --> Deployment Layer
 
-#### Figure 6: Data Flow
+#### Figure 6: Data Flow  
 ![Data Flow](screenshots/data_flow.png)
 
 User rating input --> Matrix construction --> KNN similarity --> Recommendation output
 
 ### Implementation Process
 
-#### Figure 7: Development Timeline
+#### Figure 7: Development Timeline  
 ![Timeline](screenshots/development_timeline.png)
 
 5-phase development process over 3 weeks (39 hours total)
 
-#### Figure 8: Testing Results
+#### Figure 8: Testing Results  
 ![Testing](screenshots/testing_results.png)
 
 100+ test scenarios showing prediction accuracy and edge case handling
@@ -362,9 +362,9 @@ def generate_realistic_ecommerce_data():
 
 #### AI Tools Used
 
-- **Claude AI:** Code generation, technical documentation
+- **Claude AI:** Code sample
 - **ChatGPT-4:** Conceptual explanations, calculations
-- **GitHub Copilot:** Code autocomplete
+- **GitHub Copilot:** Code compilation
 
 #### Complete Transparency
 
