@@ -416,7 +416,7 @@ IIM Ranchi
 
 **Contact:**
 - GitHub: [@CodeOpsDynamics](https://github.com/CodeOpsDynamics)
-- LinkedIn: [Connect with me](www.linkedin.com/in/himanshu-rai-b9051983)
+- LinkedIn: [Connect with me](#)
 
 ---
 
