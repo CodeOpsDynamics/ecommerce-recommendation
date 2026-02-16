@@ -1,13 +1,5 @@
 # AI-Powered E-Commerce Product Recommendation System
 
-**Student:** Himanshu Rai (XW013-25)  
-**Course:** Information Systems  
-**Institution:** IIM Ranchi - Executive MBA (2025-2027)  
-**Professor:** Prof. Anupriya Khan  
-**Submission Date:** February 17, 2026
-
----
-
 ## Live Demo
 
 **Access the live application:** https://ecommerce-recommendation.streamlit.app
@@ -390,13 +382,13 @@ The `screenshots/` folder contains the following images:
 **Total Project Duration:** 39 hours over 3 weeks
 
 **Work Distribution:**
-- Independent Work: 25.5 hours (65%)
-- AI-Assisted Work: 13.5 hours (35%)
+- Independent Work: 31.2 hours (80%)
+- AI-Assisted Work: 7.8 hours (20%)
 
 **AI Tools Used:**
-- **Claude AI:** Code generation templates and technical documentation
+- **Claude AI:** Code templates
 - **ChatGPT-4:** Conceptual explanations and business calculations
-- **GitHub Copilot:** Code autocomplete functionality
+- **GitHub Copilot:** Code compilation
 
 **Independent Contributions:**
 - Problem identification and business analysis
