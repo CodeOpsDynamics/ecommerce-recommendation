@@ -1,6 +1,6 @@
 # AI-Powered E-Commerce Product Recommendation System
 
-**Student:** Himanshu Rai (XW013-25)  
+**Student:** Himanshu (XW013-25)  
 **Course:** Information Systems  
 **Institution:** IIM Ranchi (Executive MBA 2025-27)  
 **Live Demo:** https://ecommerce-recommendation-87spz8ddg85mhs45l39g29.streamlit.app
@@ -334,13 +334,13 @@ def generate_realistic_ecommerce_data():
 ### WAI (Working with AI) Compliance
 
 **Total Work Hours:** 39 hours  
-**AI-Assisted:** 7.8 hours (20%)  
-**Independent:** 31.2 hours (80%)
+**AI-Assisted:** 13.5 hours (35%)  
+**Independent:** 25.5 hours (65%)
 
 **AI Tools Used:**
-- Claude AI: Code sample
+- Claude AI: Code generation, technical documentation
 - ChatGPT-4: Conceptual explanations, calculations
-- GitHub Copilot: Code compilation
+- GitHub Copilot: Code autocomplete
 
 **Complete Transparency:**
 - All prompts documented in project report (Annexure A)
@@ -409,7 +409,7 @@ Complete references available in project report.
 
 ## 👨‍💻 Author
 
-**Himanshu Rai**  
+**Himanshu**  
 Student ID: XW013-25  
 Executive MBA 2025-27  
 IIM Ranchi
